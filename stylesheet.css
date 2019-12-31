@@ -1,0 +1,46 @@
+header {
+  background-color: black;
+  color: #fff;
+  height: 60px;
+  font-family: "Granjon LT W01 Roman", "Yu Mincho", "YuMincho", "游明朝", "MS PMincho", serif;
+	
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 8px 40px;
+  letter-spacing: 7px;
+}
+
+.header-list li {
+  float: left;
+  padding: 22px 20px;
+  list-style: none;
+}
+
+.main {
+  margin: 80px 60px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 24px;
+
+}
+
+.text {
+  text-align: center;
+  font-size: 11px;
+  line-height: 10px;
+}
+
+.member-profile li {
+  list-style:  none;
+  font-size: 13px;
+  font-weight: lighter;
+}
+.member-profile p{
+  font-size: 13px;
+  font-weight: lighter;
+}
